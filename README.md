@@ -14,7 +14,7 @@ Chat-GPTにサンプル画像を提供し、要件定義を行う。
 # 要件定義
 要件定義書を作成するので質問をしてください。
 ```
-[SAMPLE_NITAKI](https://maruyamayuki2911.github.io/SAMPLE_NITAKI/#)
+[サンプル：SAMPLE_NITAKI](https://maruyamayuki2911.github.io/SAMPLE_NITAKI/#)
 
 ↓Chat-GPT
 ```
